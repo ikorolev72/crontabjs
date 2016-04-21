@@ -1,4 +1,4 @@
-#						Crontab js form
+#						Crontab js generator
 
 
 ##  What is it?
