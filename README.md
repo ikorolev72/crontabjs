@@ -6,6 +6,7 @@
 Crontab js generator.
 Help prepare string for unix and linux crontab utilite.
 This generator is very simple, tiny and do need any frameworks ( like jquery and so on ).
+This generator based on generator from http://www.openjs.com/ , but almost fully rewritten.
 
 ##  The Latest Version
 
